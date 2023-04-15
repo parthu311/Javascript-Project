@@ -1,0 +1,30 @@
+body {
+    padding: 50px 100px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    background-color: yellow;
+    /* color: white; */
+    padding: 10px;
+    margin: 0px;
+    font-size: 2rem;
+    font-weight: 800;
+    border: black solid;
+}
+
+#textbox {
+    width: 99.3%;
+    border: black solid;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    background-color: wheat;
+    padding: 10px;
+    font-size: 2rem;
+    font-weight: 600;
+    border: black solid;
+}

@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: darkcyan;
+    height: 100vh;
+    align-items: center;
+}
+
+h1 {
+    margin: 0px 0px 10px 0px;
+}
+
+#continer {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    margin: 10px 0px;
+    padding: 10px;
+
+
+}
+
+input[type="submit"] {
+    width: 222px;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#sub {
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    margin: 0px;
+    text-align: left;
+}
